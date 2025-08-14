@@ -6,6 +6,7 @@
  ▀▄▀▄▀ █▄▄   █▄▀ ▀▄▀   █ ▀ █ █▀█ ▀▄█ █ ▀▄▄   ▄██ ▀▄▀ █ ▀ █ █▄▄  █  █ █ ▀ █ █▄▄ ▄██ ▄ ▄ ▄
 ```
 <hr>
+
 ## 🎯 Goal
 LEx Softworks is a development organisation specialising in **UI/UX design** and **Windows API–driven applications**.\
 We create powerful tools and visually refined interfaces that bring performance, style, and control together.
