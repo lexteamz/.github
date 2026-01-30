@@ -3,7 +3,7 @@
 **Crafting exceptional software through innovation and precision.**
 
 [![Discord](https://img.shields.io/badge/Discord-join-0066cc?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/NQY28YSVAb)
-[![Codeberg](https://img.shields.io/badge/Codeberg-lexteamz-181717?style=for-the-badge&logo=codeberg)](https://codeberg.com/lexteamz)
+[![Codeberg](https://img.shields.io/badge/Codeberg-lexteamz-181717?style=for-the-badge&logo=codeberg)](https://codeberg.org/lexteamz)
 [![GitHub](https://img.shields.io/badge/GitHub-lexteamz-181717?style=for-the-badge&logo=github)](https://github.com/lexteamz)
 [![Website](https://img.shields.io/badge/Website-Visit-0066cc?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://lexploits.top)
 
